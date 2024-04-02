@@ -1,2 +1,3 @@
 # Python-Insights
-Trata-se de projeto de análise de cancelamento de clientes. Analisaremos dados para identificar os maiores cancelamentos e motivos, propondo soluções para reduzir a taxa de cancelamento. A análise de dados oferece insights valiosos, permitindo tomar decisões informadas para melhorar os resultados da empresa.
+
+Utilizamos Python com as bibliotecas Pandas e Plotly Express para análise de dados. Carregamos um conjunto de dados de cancelamentos, removemos valores vazios e plotamos histogramas para cada coluna, destacando a relação com a variável alvo (cancelou).
